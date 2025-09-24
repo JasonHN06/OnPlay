@@ -21,8 +21,8 @@ diseño colorido y atractivo acompañado de componentes visuales e interacción 
 - **Formulario de contacto** accesible y funcional
 
 ## • Estado del proyecto
-**En desarrollo**
-**En proceso de mejoras como:**
+En desarrollo**
+En proceso de mejoras como:
 - Agregar animaciones con JS y transiciones
 - Implementar accesibilidad con role y aria-label
 - Modularización del código y documentación
