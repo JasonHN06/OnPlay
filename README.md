@@ -13,12 +13,12 @@ diseño colorido y atractivo acompañado de componentes visuales e interacción 
 - **Bootstrap 5** para los componentes visuales y sistema de grillas
 
 ## • Estructura del sitio
-**Navbar fijo** y **accesible**
-**Carousel** de imágenes representativas
-**Cards informativas** de plataformas de streaming
-**Carrito de compras** con interacción JS
-**Efecto parallax** en la sección nuestras plataformas
-**Formulario de contacto** accesible y funcional
+- **Navbar fijo** y **accesible**
+- **Carousel** de imágenes representativas
+- **Cards informativas** de plataformas de streaming
+- **Carrito de compras** con interacción JS
+- **Efecto parallax** en la sección nuestras plataformas
+- **Formulario de contacto** accesible y funcional
 
 ## • Estado del proyecto
 **En desarrollo**
