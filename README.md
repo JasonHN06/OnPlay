@@ -23,10 +23,9 @@ diseño colorido y atractivo acompañado de componentes visuales e interacción 
 ## • Estado del proyecto
 **En desarrollo**
 - **En proceso de mejoras como:**
-- Agregar **animaciones** y **transiciones** con JS
-- Implementar **accesibilidad** con role y aria-label
-- **Validaciones** al formulario de contacto
-- **Modularización** del código y **documentación**
+- Agregar animaciones con JS
+- Implementar accesibilidad con role y aria-label
+- Modularización del código y documentación
 
 ## • Desarrollado por **JasonHN06**
 https://github.com/JasonHN06
